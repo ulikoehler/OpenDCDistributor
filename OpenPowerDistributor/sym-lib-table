@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "OpenPowerDistribution")(type "KiCad")(uri "${KIPRJMOD}/libraries/OpenPowerDistribution.kicad_sym")(options "")(descr ""))
+)
