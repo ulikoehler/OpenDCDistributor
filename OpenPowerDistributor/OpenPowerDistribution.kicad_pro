@@ -388,7 +388,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "OpenPowerDistribution"
+    ],
     "pinned_symbol_libs": [
       "OpenPowerDistribution"
     ]
@@ -497,6 +499,42 @@
     [
       "b96d46bc-8ba1-4cbe-b99e-e39dc05b303c",
       "Dual output"
+    ],
+    [
+      "e4deee11-55f7-4f18-af99-bea885b0cfea",
+      "Dual output1"
+    ],
+    [
+      "85719244-66a7-40c3-82ed-28faeb6fb371",
+      "Dual output2"
+    ],
+    [
+      "74fd09d3-df1f-43b2-92e6-36c41e96448f",
+      "Dual output3"
+    ],
+    [
+      "f02926a4-ecb0-4085-b2d0-fb1538d188c5",
+      "Dual output6"
+    ],
+    [
+      "c66097e8-d629-4b84-bed3-ecef8eda3008",
+      "Dual output5"
+    ],
+    [
+      "e5191bda-9cfb-4a55-9ca3-cd9bac3e48c3",
+      "Dual output4"
+    ],
+    [
+      "e80d9cb1-99ed-4151-affe-23d60cb9d8e2",
+      "9V buck converter"
+    ],
+    [
+      "f529eff0-84d8-4678-a1b3-b1f91f6d1c09",
+      "Dual output8"
+    ],
+    [
+      "3d9b216d-734e-4ffd-941d-a104869460a4",
+      "Dual output7"
     ]
   ],
   "text_variables": {}
