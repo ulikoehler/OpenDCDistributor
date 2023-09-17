@@ -81,6 +81,23 @@
     )
   )
 
+  (sheet (at 130.81 34.29) (size 50.8 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid b96d46bc-8ba1-4cbe-b99e-e39dc05b303c)
+    (property "Sheetname" "Dual output" (at 130.81 33.5784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Dual output.kicad_sch" (at 130.81 47.5746 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "OpenPowerDistribution"
+        (path "/df87b081-37a2-452c-8581-7eff2c408a17" (page "7"))
+      )
+    )
+  )
+
   (sheet (at 77.47 73.66) (size 40.64 11.43) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))

@@ -90,7 +90,7 @@
 
   (footprint "Diode_SMD:D_SMB" (layer "F.Cu")
     (tstamp 15eb0ae2-139f-4cff-9e90-168f591923d2)
-    (at 67 56)
+    (at 46 60)
     (descr "Diode SMB (DO-214AA)")
     (tags "Diode SMB (DO-214AA)")
     (property "Sheetfile" "Power input.kicad_sch")
@@ -403,7 +403,7 @@
 
   (footprint "Capacitor_SMD:CP_Elec_8x10.5" (layer "F.Cu")
     (tstamp b2f50e99-053b-4e8e-819d-89dadb7c1cf3)
-    (at 45 40)
+    (at 46 40)
     (descr "SMD capacitor, aluminum electrolytic, Vishay 0810, 8.0x10.5mm, http://www.vishay.com/docs/28395/150crz.pdf")
     (tags "capacitor electrolytic")
     (property "MPN" "GVT1E337M0810CNVC")
@@ -955,7 +955,7 @@
 
   (footprint "Diode_SMD:D_SMC" (layer "F.Cu")
     (tstamp d875fb89-04da-4291-bb0b-2696d01416da)
-    (at 45.9 50)
+    (at 45.9 51)
     (descr "Diode SMC (DO-214AB)")
     (tags "Diode SMC (DO-214AB)")
     (property "LCSC Part#" "C437995")
