@@ -243,7 +243,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "OpenPowerDistribution"
+    ]
   },
   "meta": {
     "filename": "OpenPowerDistribution.kicad_pro",
@@ -325,6 +327,26 @@
     [
       "df87b081-37a2-452c-8581-7eff2c408a17",
       ""
+    ],
+    [
+      "b2a621b0-638a-4528-852a-07ba08e58808",
+      "Power input"
+    ],
+    [
+      "c5ef4c26-c64f-4464-8506-0cba199ca76f",
+      "5V buck converter"
+    ],
+    [
+      "a4c605b7-0bb6-4343-96e8-12ac057a7ce8",
+      "3.3V internal supply"
+    ],
+    [
+      "543a95e5-fa11-4cad-991c-06a5dbe63578",
+      "30V Gate power"
+    ],
+    [
+      "5271d5ec-b36f-4f08-83bf-9553480e7caf",
+      "24V boost"
     ]
   ],
   "text_variables": {}
