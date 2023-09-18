@@ -551,6 +551,10 @@
     [
       "d6281f85-5a0d-489c-bbcc-234cdb657621",
       "Input multiplexer"
+    ],
+    [
+      "6b60f7be-c906-4380-8d9e-bd85f3ae1be6",
+      "Analog multiplexer"
     ]
   ],
   "text_variables": {}
