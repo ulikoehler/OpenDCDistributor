@@ -514,7 +514,7 @@
   (symbol (lib_id "Device:C_Small") (at 125.73 74.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 22ff0aef-7925-4e25-9025-8bc119bddedb)
-    (property "Reference" "C9" (at 128.27 73.6663 0)
+    (property "Reference" "C53" (at 128.27 73.6663 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF 16V" (at 128.27 76.2063 0)
@@ -530,33 +530,6 @@
     (pin "2" (uuid bba1ba9d-b573-4f0b-ab6d-616e7893e0b6))
     (instances
       (project "OpenPowerDistribution"
-        (path "/df87b081-37a2-452c-8581-7eff2c408a17/b96d46bc-8ba1-4cbe-b99e-e39dc05b303c"
-          (reference "C9") (unit 1)
-        )
-        (path "/df87b081-37a2-452c-8581-7eff2c408a17/e4deee11-55f7-4f18-af99-bea885b0cfea"
-          (reference "C17") (unit 1)
-        )
-        (path "/df87b081-37a2-452c-8581-7eff2c408a17/85719244-66a7-40c3-82ed-28faeb6fb371"
-          (reference "C22") (unit 1)
-        )
-        (path "/df87b081-37a2-452c-8581-7eff2c408a17/74fd09d3-df1f-43b2-92e6-36c41e96448f"
-          (reference "C27") (unit 1)
-        )
-        (path "/df87b081-37a2-452c-8581-7eff2c408a17/e5191bda-9cfb-4a55-9ca3-cd9bac3e48c3"
-          (reference "C42") (unit 1)
-        )
-        (path "/df87b081-37a2-452c-8581-7eff2c408a17/c66097e8-d629-4b84-bed3-ecef8eda3008"
-          (reference "C37") (unit 1)
-        )
-        (path "/df87b081-37a2-452c-8581-7eff2c408a17/f02926a4-ecb0-4085-b2d0-fb1538d188c5"
-          (reference "C32") (unit 1)
-        )
-        (path "/df87b081-37a2-452c-8581-7eff2c408a17/3d9b216d-734e-4ffd-941d-a104869460a4"
-          (reference "C52") (unit 1)
-        )
-        (path "/df87b081-37a2-452c-8581-7eff2c408a17/f529eff0-84d8-4678-a1b3-b1f91f6d1c09"
-          (reference "C47") (unit 1)
-        )
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/e80d9cb1-99ed-4151-affe-23d60cb9d8e2"
           (reference "C53") (unit 1)
         )

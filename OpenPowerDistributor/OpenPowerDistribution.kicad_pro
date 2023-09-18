@@ -497,44 +497,56 @@
       "24V boost"
     ],
     [
-      "b96d46bc-8ba1-4cbe-b99e-e39dc05b303c",
-      "Dual output"
+      "f8f33fed-6e10-48e0-b755-f7d2df488e37",
+      "5V output #2"
     ],
     [
-      "e4deee11-55f7-4f18-af99-bea885b0cfea",
-      "Dual output1"
+      "ab686c5b-e4b5-4cbf-80ca-61c2ad9a7795",
+      "5V output #3"
     ],
     [
-      "85719244-66a7-40c3-82ed-28faeb6fb371",
-      "Dual output2"
+      "9be334c7-1f37-4ff5-9aa6-84f81d38ce3f",
+      "5V output #1"
     ],
     [
-      "74fd09d3-df1f-43b2-92e6-36c41e96448f",
-      "Dual output3"
+      "7d439be1-6252-496b-9c0c-eb0c6b7afaa6",
+      "12V output #1"
     ],
     [
-      "f02926a4-ecb0-4085-b2d0-fb1538d188c5",
-      "Dual output6"
+      "663ff9d7-0972-41e8-a2bf-1783ec7c573d",
+      "12V output #2"
     ],
     [
-      "c66097e8-d629-4b84-bed3-ecef8eda3008",
-      "Dual output5"
+      "269b0a59-bf97-4689-a048-a937f158a5be",
+      "12V output #3"
     ],
     [
-      "e5191bda-9cfb-4a55-9ca3-cd9bac3e48c3",
-      "Dual output4"
+      "6596b871-ed5b-490e-b23d-b0a9b027858b",
+      "24V output #1"
     ],
     [
       "e80d9cb1-99ed-4151-affe-23d60cb9d8e2",
       "9V buck converter"
     ],
     [
-      "f529eff0-84d8-4678-a1b3-b1f91f6d1c09",
-      "Dual output8"
+      "2ee49f1a-774e-48e8-8152-7d9caaaec351",
+      "9V output #1"
     ],
     [
-      "3d9b216d-734e-4ffd-941d-a104869460a4",
-      "Dual output7"
+      "0d0a14d6-c675-4c92-8f7d-14390dc70386",
+      "DC Output channels"
+    ],
+    [
+      "d6ed04cc-2046-4322-b07b-20edcb5e6851",
+      "9V output #2"
+    ],
+    [
+      "9bf24cd5-de70-4a0d-bccf-b175515df8e6",
+      "MCU"
+    ],
+    [
+      "5e66085e-4ac4-474e-a8c7-4febacc055ab",
+      "Output multiplexer"
     ]
   ],
   "text_variables": {}
