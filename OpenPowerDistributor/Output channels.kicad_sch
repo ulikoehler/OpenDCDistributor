@@ -2247,7 +2247,7 @@
           (reference "#PWR076") (unit 1)
         )
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/0d0a14d6-c675-4c92-8f7d-14390dc70386"
-          (reference "#PWR0189") (unit 1)
+          (reference "#PWR0195") (unit 1)
         )
       )
     )
@@ -2279,7 +2279,7 @@
           (reference "D34") (unit 1)
         )
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/0d0a14d6-c675-4c92-8f7d-14390dc70386"
-          (reference "D14") (unit 1)
+          (reference "D72") (unit 1)
         )
       )
     )
@@ -2311,7 +2311,7 @@
           (reference "D30") (unit 1)
         )
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/0d0a14d6-c675-4c92-8f7d-14390dc70386"
-          (reference "D94") (unit 1)
+          (reference "D86") (unit 1)
         )
       )
     )
@@ -2343,7 +2343,7 @@
           (reference "D13") (unit 1)
         )
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/0d0a14d6-c675-4c92-8f7d-14390dc70386"
-          (reference "D80") (unit 1)
+          (reference "D78") (unit 1)
         )
       )
     )
@@ -2375,7 +2375,7 @@
           (reference "D34") (unit 1)
         )
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/0d0a14d6-c675-4c92-8f7d-14390dc70386"
-          (reference "D86") (unit 1)
+          (reference "D70") (unit 1)
         )
       )
     )
@@ -2403,7 +2403,7 @@
           (reference "#PWR079") (unit 1)
         )
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/0d0a14d6-c675-4c92-8f7d-14390dc70386"
-          (reference "#PWR043") (unit 1)
+          (reference "#PWR0192") (unit 1)
         )
       )
     )
@@ -2412,7 +2412,7 @@
   (symbol (lib_id "power:+9V") (at 205.74 110.49 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1d9a7a4e-f512-46a1-a7db-797cd54bcc06)
-    (property "Reference" "#PWR0221" (at 209.55 110.49 0)
+    (property "Reference" "#PWR0199" (at 209.55 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+9V" (at 201.93 110.49 90)
@@ -2428,7 +2428,7 @@
     (instances
       (project "OpenPowerDistribution"
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/0d0a14d6-c675-4c92-8f7d-14390dc70386"
-          (reference "#PWR0221") (unit 1)
+          (reference "#PWR0199") (unit 1)
         )
       )
     )
@@ -2460,7 +2460,7 @@
           (reference "D34") (unit 1)
         )
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/0d0a14d6-c675-4c92-8f7d-14390dc70386"
-          (reference "D24") (unit 1)
+          (reference "D74") (unit 1)
         )
       )
     )
@@ -2488,7 +2488,7 @@
           (reference "#PWR075") (unit 1)
         )
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/0d0a14d6-c675-4c92-8f7d-14390dc70386"
-          (reference "#PWR0188") (unit 1)
+          (reference "#PWR0194") (unit 1)
         )
       )
     )
@@ -2520,7 +2520,7 @@
           (reference "D33") (unit 1)
         )
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/0d0a14d6-c675-4c92-8f7d-14390dc70386"
-          (reference "D13") (unit 1)
+          (reference "D71") (unit 1)
         )
       )
     )
@@ -2552,7 +2552,7 @@
           (reference "D13") (unit 1)
         )
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/0d0a14d6-c675-4c92-8f7d-14390dc70386"
-          (reference "D68") (unit 1)
+          (reference "D82") (unit 1)
         )
       )
     )
@@ -2580,7 +2580,7 @@
           (reference "#PWR079") (unit 1)
         )
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/0d0a14d6-c675-4c92-8f7d-14390dc70386"
-          (reference "#PWR064") (unit 1)
+          (reference "#PWR0193") (unit 1)
         )
       )
     )
@@ -2612,7 +2612,7 @@
           (reference "D12") (unit 1)
         )
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/0d0a14d6-c675-4c92-8f7d-14390dc70386"
-          (reference "D57") (unit 1)
+          (reference "D79") (unit 1)
         )
       )
     )
@@ -2644,7 +2644,7 @@
           (reference "D33") (unit 1)
         )
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/0d0a14d6-c675-4c92-8f7d-14390dc70386"
-          (reference "D23") (unit 1)
+          (reference "D73") (unit 1)
         )
       )
     )
@@ -2676,7 +2676,7 @@
           (reference "D9") (unit 1)
         )
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/0d0a14d6-c675-4c92-8f7d-14390dc70386"
-          (reference "D91") (unit 1)
+          (reference "D83") (unit 1)
         )
       )
     )
@@ -2708,7 +2708,7 @@
           (reference "D7") (unit 1)
         )
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/0d0a14d6-c675-4c92-8f7d-14390dc70386"
-          (reference "D77") (unit 1)
+          (reference "D75") (unit 1)
         )
       )
     )
@@ -2740,7 +2740,7 @@
           (reference "D13") (unit 1)
         )
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/0d0a14d6-c675-4c92-8f7d-14390dc70386"
-          (reference "D58") (unit 1)
+          (reference "D80") (unit 1)
         )
       )
     )
@@ -2772,7 +2772,7 @@
           (reference "D12") (unit 1)
         )
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/0d0a14d6-c675-4c92-8f7d-14390dc70386"
-          (reference "D67") (unit 1)
+          (reference "D81") (unit 1)
         )
       )
     )
@@ -2804,7 +2804,7 @@
           (reference "D33") (unit 1)
         )
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/0d0a14d6-c675-4c92-8f7d-14390dc70386"
-          (reference "D85") (unit 1)
+          (reference "D69") (unit 1)
         )
       )
     )
@@ -2836,7 +2836,7 @@
           (reference "D23") (unit 1)
         )
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/0d0a14d6-c675-4c92-8f7d-14390dc70386"
-          (reference "D93") (unit 1)
+          (reference "D85") (unit 1)
         )
       )
     )
@@ -2845,7 +2845,7 @@
   (symbol (lib_id "power:+9V") (at 204.47 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b56a5b5a-7bef-42dc-8752-915a5f97e8c3)
-    (property "Reference" "#PWR0200" (at 208.28 67.31 0)
+    (property "Reference" "#PWR0198" (at 208.28 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+9V" (at 200.66 67.31 90)
@@ -2861,7 +2861,7 @@
     (instances
       (project "OpenPowerDistribution"
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/0d0a14d6-c675-4c92-8f7d-14390dc70386"
-          (reference "#PWR0200") (unit 1)
+          (reference "#PWR0198") (unit 1)
         )
       )
     )
@@ -2893,7 +2893,7 @@
           (reference "D12") (unit 1)
         )
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/0d0a14d6-c675-4c92-8f7d-14390dc70386"
-          (reference "D79") (unit 1)
+          (reference "D77") (unit 1)
         )
       )
     )
@@ -2925,7 +2925,7 @@
           (reference "D11") (unit 1)
         )
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/0d0a14d6-c675-4c92-8f7d-14390dc70386"
-          (reference "D78") (unit 1)
+          (reference "D76") (unit 1)
         )
       )
     )
@@ -2953,7 +2953,7 @@
           (reference "#PWR076") (unit 1)
         )
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/0d0a14d6-c675-4c92-8f7d-14390dc70386"
-          (reference "#PWR0143") (unit 1)
+          (reference "#PWR0196") (unit 1)
         )
       )
     )
@@ -2981,7 +2981,7 @@
           (reference "#PWR076") (unit 1)
         )
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/0d0a14d6-c675-4c92-8f7d-14390dc70386"
-          (reference "#PWR0176") (unit 1)
+          (reference "#PWR0197") (unit 1)
         )
       )
     )
@@ -3009,7 +3009,7 @@
           (reference "#PWR079") (unit 1)
         )
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/0d0a14d6-c675-4c92-8f7d-14390dc70386"
-          (reference "#PWR0197") (unit 1)
+          (reference "#PWR0191") (unit 1)
         )
       )
     )
@@ -3041,7 +3041,7 @@
           (reference "D16") (unit 1)
         )
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/0d0a14d6-c675-4c92-8f7d-14390dc70386"
-          (reference "D92") (unit 1)
+          (reference "D84") (unit 1)
         )
       )
     )
@@ -3510,7 +3510,7 @@
     (instances
       (project "OpenPowerDistribution"
         (path "/df87b081-37a2-452c-8581-7eff2c408a17" (page "11"))
-        (path "/df87b081-37a2-452c-8581-7eff2c408a17/0d0a14d6-c675-4c92-8f7d-14390dc70386" (page "9"))
+        (path "/df87b081-37a2-452c-8581-7eff2c408a17/0d0a14d6-c675-4c92-8f7d-14390dc70386" (page "7"))
       )
     )
   )
@@ -3588,7 +3588,7 @@
     (instances
       (project "OpenPowerDistribution"
         (path "/df87b081-37a2-452c-8581-7eff2c408a17" (page "11"))
-        (path "/df87b081-37a2-452c-8581-7eff2c408a17/0d0a14d6-c675-4c92-8f7d-14390dc70386" (page "8"))
+        (path "/df87b081-37a2-452c-8581-7eff2c408a17/0d0a14d6-c675-4c92-8f7d-14390dc70386" (page "9"))
       )
     )
   )
@@ -3744,7 +3744,7 @@
     (instances
       (project "OpenPowerDistribution"
         (path "/df87b081-37a2-452c-8581-7eff2c408a17" (page "11"))
-        (path "/df87b081-37a2-452c-8581-7eff2c408a17/0d0a14d6-c675-4c92-8f7d-14390dc70386" (page "7"))
+        (path "/df87b081-37a2-452c-8581-7eff2c408a17/0d0a14d6-c675-4c92-8f7d-14390dc70386" (page "8"))
       )
     )
   )

@@ -695,7 +695,7 @@
   (symbol (lib_id "Regulator_Switching:AP63200WU") (at 100.33 83.82 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 010bd72e-8aa1-4a7f-9153-73cebb746ba8)
-    (property "Reference" "U1" (at 100.33 73.025 0)
+    (property "Reference" "U2" (at 100.33 73.025 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "AP63200WU" (at 100.33 75.565 0)
@@ -716,7 +716,7 @@
     (instances
       (project "OpenPowerDistribution"
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/a4c605b7-0bb6-4343-96e8-12ac057a7ce8"
-          (reference "U1") (unit 1)
+          (reference "U2") (unit 1)
         )
       )
     )
@@ -725,7 +725,7 @@
   (symbol (lib_id "power:GND") (at 196.85 92.71 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 12c40e1e-ec90-492c-bd65-dd4f252cd381)
-    (property "Reference" "#PWR08" (at 196.85 99.06 0)
+    (property "Reference" "#PWR016" (at 196.85 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 196.85 97.79 0)
@@ -741,7 +741,7 @@
     (instances
       (project "OpenPowerDistribution"
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/a4c605b7-0bb6-4343-96e8-12ac057a7ce8"
-          (reference "#PWR08") (unit 1)
+          (reference "#PWR016") (unit 1)
         )
       )
     )
@@ -776,7 +776,7 @@
   (symbol (lib_id "power:GND") (at 100.33 91.44 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 25b274f4-da64-4d36-a039-9a79821d4159)
-    (property "Reference" "#PWR04" (at 100.33 97.79 0)
+    (property "Reference" "#PWR012" (at 100.33 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 100.33 95.885 0)
@@ -792,7 +792,7 @@
     (instances
       (project "OpenPowerDistribution"
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/a4c605b7-0bb6-4343-96e8-12ac057a7ce8"
-          (reference "#PWR04") (unit 1)
+          (reference "#PWR012") (unit 1)
         )
       )
     )
@@ -801,7 +801,7 @@
   (symbol (lib_id "Device:L_Ferrite") (at 140.97 83.82 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6280134d-bab0-43eb-afa2-67765b795c7f)
-    (property "Reference" "L1" (at 140.97 76.835 90)
+    (property "Reference" "L2" (at 140.97 76.835 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10uH 2A" (at 140.97 79.375 90)
@@ -821,7 +821,7 @@
     (instances
       (project "OpenPowerDistribution"
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/a4c605b7-0bb6-4343-96e8-12ac057a7ce8"
-          (reference "L1") (unit 1)
+          (reference "L2") (unit 1)
         )
       )
     )
@@ -830,7 +830,7 @@
   (symbol (lib_id "Device:C_Small") (at 123.19 83.82 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 662f2c76-7a26-4828-823c-4b35f94c0282)
-    (property "Reference" "C1" (at 124.46 82.55 90)
+    (property "Reference" "C6" (at 124.46 82.55 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 118.11 80.01 90)
@@ -853,7 +853,7 @@
     (instances
       (project "OpenPowerDistribution"
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/a4c605b7-0bb6-4343-96e8-12ac057a7ce8"
-          (reference "C1") (unit 1)
+          (reference "C6") (unit 1)
         )
       )
     )
@@ -862,7 +862,7 @@
   (symbol (lib_id "power:+12V") (at 81.28 81.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6fbabf30-132c-4a3d-a657-5620a787e2a5)
-    (property "Reference" "#PWR09" (at 81.28 85.09 0)
+    (property "Reference" "#PWR011" (at 81.28 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12V" (at 81.28 76.2 0)
@@ -878,7 +878,7 @@
     (instances
       (project "OpenPowerDistribution"
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/a4c605b7-0bb6-4343-96e8-12ac057a7ce8"
-          (reference "#PWR09") (unit 1)
+          (reference "#PWR011") (unit 1)
         )
       )
     )
@@ -887,7 +887,7 @@
   (symbol (lib_id "Device:R_Small") (at 162.56 95.25 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 77b715fd-d371-4f01-913a-40e7619375f5)
-    (property "Reference" "R2" (at 165.1 93.9799 0)
+    (property "Reference" "R4" (at 165.1 93.9799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "68k" (at 165.1 96.5199 0)
@@ -904,7 +904,7 @@
     (instances
       (project "OpenPowerDistribution"
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/a4c605b7-0bb6-4343-96e8-12ac057a7ce8"
-          (reference "R2") (unit 1)
+          (reference "R4") (unit 1)
         )
       )
     )
@@ -913,7 +913,7 @@
   (symbol (lib_id "Device:C_Polarized_Small") (at 180.34 86.36 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7821906f-840b-4b36-874b-18f84d1b04ca)
-    (property "Reference" "C3" (at 182.88 84.5438 0)
+    (property "Reference" "C8" (at 182.88 84.5438 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "47uF 35V" (at 182.88 87.0838 0)
@@ -933,7 +933,7 @@
     (instances
       (project "OpenPowerDistribution"
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/a4c605b7-0bb6-4343-96e8-12ac057a7ce8"
-          (reference "C3") (unit 1)
+          (reference "C8") (unit 1)
         )
       )
     )
@@ -942,7 +942,7 @@
   (symbol (lib_id "power:GND") (at 162.56 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b1f27677-06c8-49a2-b498-48a76cee0328)
-    (property "Reference" "#PWR06" (at 162.56 105.41 0)
+    (property "Reference" "#PWR013" (at 162.56 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 162.56 104.14 0)
@@ -958,7 +958,7 @@
     (instances
       (project "OpenPowerDistribution"
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/a4c605b7-0bb6-4343-96e8-12ac057a7ce8"
-          (reference "#PWR06") (unit 1)
+          (reference "#PWR013") (unit 1)
         )
       )
     )
@@ -967,7 +967,7 @@
   (symbol (lib_id "Device:R_Small") (at 162.56 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c523e6c5-234f-481d-ba23-834435405b5a)
-    (property "Reference" "R1" (at 165.1 86.3599 0)
+    (property "Reference" "R3" (at 165.1 86.3599 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "220k" (at 165.1 88.8999 0)
@@ -984,7 +984,7 @@
     (instances
       (project "OpenPowerDistribution"
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/a4c605b7-0bb6-4343-96e8-12ac057a7ce8"
-          (reference "R1") (unit 1)
+          (reference "R3") (unit 1)
         )
       )
     )
@@ -993,7 +993,7 @@
   (symbol (lib_id "power:+3.3V") (at 180.34 81.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c562ef35-0ff1-454a-b13d-0abb383bc514)
-    (property "Reference" "#PWR07" (at 180.34 85.09 0)
+    (property "Reference" "#PWR014" (at 180.34 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3V" (at 180.34 76.2 0)
@@ -1009,7 +1009,7 @@
     (instances
       (project "OpenPowerDistribution"
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/a4c605b7-0bb6-4343-96e8-12ac057a7ce8"
-          (reference "#PWR07") (unit 1)
+          (reference "#PWR014") (unit 1)
         )
       )
     )
@@ -1018,7 +1018,7 @@
   (symbol (lib_id "Device:C_Small") (at 149.86 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dbf745b4-93c8-4131-bb47-9dedaf15bf34)
-    (property "Reference" "C2" (at 152.4 86.3662 0)
+    (property "Reference" "C7" (at 152.4 86.3662 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100pF" (at 152.4 88.9062 0)
@@ -1035,7 +1035,7 @@
     (instances
       (project "OpenPowerDistribution"
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/a4c605b7-0bb6-4343-96e8-12ac057a7ce8"
-          (reference "C2") (unit 1)
+          (reference "C7") (unit 1)
         )
       )
     )
@@ -1044,7 +1044,7 @@
   (symbol (lib_id "power:GND") (at 180.34 88.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e0399f66-0a1b-44c6-9739-a4308ef65ba7)
-    (property "Reference" "#PWR05" (at 180.34 95.25 0)
+    (property "Reference" "#PWR015" (at 180.34 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 180.34 93.345 0)
@@ -1060,7 +1060,7 @@
     (instances
       (project "OpenPowerDistribution"
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/a4c605b7-0bb6-4343-96e8-12ac057a7ce8"
-          (reference "#PWR05") (unit 1)
+          (reference "#PWR015") (unit 1)
         )
       )
     )

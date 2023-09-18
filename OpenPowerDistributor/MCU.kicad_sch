@@ -322,7 +322,7 @@
   (symbol (lib_id "power:+3V3") (at 148.59 33.02 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a956f84a-67b4-409b-b1ca-1afa5c75406e)
-    (property "Reference" "#PWR020" (at 148.59 36.83 0)
+    (property "Reference" "#PWR0220" (at 148.59 36.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 148.59 27.94 0)
@@ -338,7 +338,7 @@
     (instances
       (project "OpenPowerDistribution"
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/9bf24cd5-de70-4a0d-bccf-b175515df8e6"
-          (reference "#PWR020") (unit 1)
+          (reference "#PWR0220") (unit 1)
         )
       )
     )
@@ -347,7 +347,7 @@
   (symbol (lib_id "RF_Module:ESP32-S2-WROVER") (at 148.59 69.85 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d5b9e85b-1feb-4650-8cb4-e3e03a55abad)
-    (property "Reference" "U3" (at 150.7841 36.83 0)
+    (property "Reference" "U15" (at 150.7841 36.83 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "ESP32-S2-WROVER" (at 150.7841 39.37 0)
@@ -405,7 +405,7 @@
     (instances
       (project "OpenPowerDistribution"
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/9bf24cd5-de70-4a0d-bccf-b175515df8e6"
-          (reference "U3") (unit 1)
+          (reference "U15") (unit 1)
         )
       )
     )
@@ -414,7 +414,7 @@
   (symbol (lib_id "power:GND") (at 148.59 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d65a6265-906d-4678-b045-3caa8c0ba843)
-    (property "Reference" "#PWR019" (at 148.59 104.14 0)
+    (property "Reference" "#PWR0221" (at 148.59 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 148.59 102.87 0)
@@ -430,7 +430,7 @@
     (instances
       (project "OpenPowerDistribution"
         (path "/df87b081-37a2-452c-8581-7eff2c408a17/9bf24cd5-de70-4a0d-bccf-b175515df8e6"
-          (reference "#PWR019") (unit 1)
+          (reference "#PWR0221") (unit 1)
         )
       )
     )

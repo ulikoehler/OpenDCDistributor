@@ -497,16 +497,16 @@
       "24V boost"
     ],
     [
+      "9be334c7-1f37-4ff5-9aa6-84f81d38ce3f",
+      "5V output #1"
+    ],
+    [
       "f8f33fed-6e10-48e0-b755-f7d2df488e37",
       "5V output #2"
     ],
     [
       "ab686c5b-e4b5-4cbf-80ca-61c2ad9a7795",
       "5V output #3"
-    ],
-    [
-      "9be334c7-1f37-4ff5-9aa6-84f81d38ce3f",
-      "5V output #1"
     ],
     [
       "7d439be1-6252-496b-9c0c-eb0c6b7afaa6",
@@ -547,6 +547,10 @@
     [
       "5e66085e-4ac4-474e-a8c7-4febacc055ab",
       "Output multiplexer"
+    ],
+    [
+      "d6281f85-5a0d-489c-bbcc-234cdb657621",
+      "Input multiplexer"
     ]
   ],
   "text_variables": {}
